@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+megnet
+tensorflow
+tensorboard
+ruamel.yaml
+pyyaml
+wandb
+jupyter
+
